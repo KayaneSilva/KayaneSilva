@@ -1,7 +1,12 @@
-Some projects I've participated:
+Alguns projetos que participei:
 
-Creation of the new design, feature improvements and bug fixes (ApaLeilões) - http://www.apaleiloes.com.br - Front-end Angular 6 and Back-end Node.js
+ApaLeilões/BRFLeilões 
+http://www.apaleiloes.com.br - Front-end Angular 6 and Back-end Node.js
+Criação de novo design, melhorias de recursos e correções de bugs.
+Modelagem de banco (MongoDB)
 
-Creation of the new design, feature improvements and bug fixes (BRFLeilões) - http://www.brfleiloes.com.br - Front-end Angular 6 and Back-end Node.js
-
-System improvements, bug fixes and new features creation (NETResíduos) - https://app.netresiduos.com.br - Front-end Angular 8 and Back-end C#
+NETResíduos
+https://app.netresiduos.com.br - Front-end Angular 8 and Back-end C# (.NET)
+Melhorias no sistema, correções de bugs e criação de novos recursos. 
+Modelagem de banco (SQL) - Migration
+Utilização de microserviços paralelos (Apenas entendimento)
