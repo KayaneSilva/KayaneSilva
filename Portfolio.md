@@ -1,7 +1,7 @@
 Alguns projetos que participei:
 
 ApaLeilões/BRFLeilões 
-http://www.apaleiloes.com.br - Front-end Angular 6 and Back-end Node.js
+http://www.apaleiloes.com.br e https://www.brfleiloes.com.br - Front-end Angular 6 and Back-end Node.js
 Criação de novo design, melhorias de recursos e correções de bugs.
 Modelagem de banco (MongoDB)
 
